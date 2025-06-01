@@ -9,7 +9,7 @@ A simple Oracle SQL project to manage flight boarding operations, including pass
 1. **Create User and Grant Privileges:**
 
    ```sql
-   CREATE USER Njoud_Alnamlah IDENTIFIED BY nj2333;
+   CREATE USER Njoud_Alnamlah IDENTIFIED BY nj442000029;
    GRANT ALL PRIVILEGES TO Njoud_Alnamlah;
    ```
 
@@ -39,9 +39,7 @@ A simple Oracle SQL project to manage flight boarding operations, including pass
 - **Passenger:** Passenger personal information.
 - **BoardingPass:** Boarding pass details linking passengers to flights.
 
-![ERD Diagram](https://raw.githubusercontent.com/your-username/your-repository/main/images/erd-diagram.png)
-
-*Note: Replace `your-username`, `your-repository`, and the image path with your actual GitHub username, repository name, and image location.*
+![image](https://github.com/user-attachments/assets/7303946e-d798-410a-9ad1-ee88fdd86517)
 
 ## 🔧 Features
 
@@ -60,3 +58,4 @@ A simple Oracle SQL project to manage flight boarding operations, including pass
   - `NoOfPassenger`: Limits passengers per flight to 30.
   - `CheckOnBoarding`: Prevents deletion of checked-in boarding passes.
   - `CheckGate`: Validates gate numbers between 1 and 10.
+
