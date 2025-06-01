@@ -38,8 +38,9 @@ A simple Oracle SQL project to manage flight boarding operations, including pass
 - **Flight:** Flight schedules and details.
 - **Passenger:** Passenger personal information.
 - **BoardingPass:** Boarding pass details linking passengers to flights.
+  
+![diagram-export-5-30-2025-4_24_01-PM](https://github.com/user-attachments/assets/dcbb2071-be96-448d-8b8f-c3e912291dcf)
 
-![image](https://github.com/user-attachments/assets/7303946e-d798-410a-9ad1-ee88fdd86517)
 
 ## 🔧 Features
 
